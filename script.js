@@ -1,9 +1,9 @@
 const alp_buttons_container = document.querySelector(".alp_buttons_container")
 const alphabets = ["A","B","C","D","E","F","G","H","I","J","K","L","M","N","O","P","Q","R","S","T","U","V","W","x","Y","Z"]
 const data = {
-   Fruits :["MANGO","APPLE","BANANA"],
-   Animals:[],
-   Countries:[]
+   Fruits :["MANGO","APPLE","BANANA","POMEGRANATE"],
+   Animals:["LION","CAT","TIGER"],
+   Countries:["INDIA","PAKISTAN","GERMANY","THAILAND"]
 }
 const categories = document.querySelectorAll(".button-container button")
 const wordShow = document.querySelector(".word_show")
